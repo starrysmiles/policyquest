@@ -6,7 +6,7 @@ Created by **Aarohi Rastogi**
 
 **Play. Think. Make Better Choices.**
 
-![PolicyQuest App](policyquest.png)
+![PolicyQuest App](policyQuest.jpeg)
 
 ## About the App
 
